@@ -2,7 +2,7 @@
  * Provide a demonstration of the Club and Member
  * classes.
  * 
- * @author A.Razak 
+ * @author Osazemen
  * @version version 1 - 23/02/2025
  */
 public class TestClub

@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Store details of club memberships.
  *
- * @author A. Razak
+ * @author Osazemen
  * @version version 1 - 23/02/2025
         */
     public class Club {

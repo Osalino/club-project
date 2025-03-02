@@ -1,7 +1,7 @@
 /**
  * A class to store details of a club membership.
  * 
- * @author A. Razak
+ * @author Osazemen
  * @version 23/02/2025
  */
 public class Member
