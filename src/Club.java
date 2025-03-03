@@ -85,6 +85,7 @@ import java.util.*;
         }
     }
 
+
     public void manualPrint() {
         System.out.println();
 //        Iterator<Member> iterator = MembersList.iterator();
