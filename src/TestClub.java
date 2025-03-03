@@ -8,24 +8,14 @@
 public class TestClub
 {
 	
-    // instance variables - replace the example below with your own
-    
-    /**
-     * Constructor for objects of class TestClub
-     */
+
     public TestClub()
     {
       
    }
 
     public static void main(String args[]){
-    
-    /**
-     * Add some members to the club, and then
-     * show how many there are.
-     * Further example calls could be added if more functionality
-     * is added to the Club class.
-     */
+
        	Club myClub = new Club();
 
            System.out.println("The club has " +

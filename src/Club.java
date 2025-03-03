@@ -7,8 +7,7 @@ import java.util.*;
  * @version version 1 - 23/02/2025
         */
     public class Club {
-    // Define any necessary fields here ...
-    private ArrayList<Member> MembersList;
+        private ArrayList<Member> MembersList;
     private Member month;
 
         /**
